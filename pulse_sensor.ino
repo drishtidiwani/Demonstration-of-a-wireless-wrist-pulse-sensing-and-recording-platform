@@ -14,7 +14,7 @@
 #include "addons/RTDBHelper.h"
 
 const char* serverName = "http://api.thingspeak.com/update"; 
-String apiKey = "Z7AK3UDBA816328S";
+String apiKey = "Enter API";
 int v;
 
 #define I2CMux 0x70//Macro for address of I2C multiplexer 0x70 
